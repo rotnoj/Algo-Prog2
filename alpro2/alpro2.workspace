@@ -2,21 +2,18 @@
 <CodeLite_Workspace Name="alpro2" Database="" Version="10.0.0">
   <Project Name="pertemuan1" Path="pertemuan1/pertemuan1.project" Active="No"/>
   <Project Name="range_based_for" Path="range_based_for/range_based_for.project" Active="No"/>
-  <Project Name="a" Path="a/a.project" Active="No"/>
   <Project Name="b" Path="b/b.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="pertemuan1" ConfigName="Debug"/>
       <Project Name="range_based_for" ConfigName="Debug"/>
-      <Project Name="a" ConfigName="Debug"/>
       <Project Name="b" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="pertemuan1" ConfigName="Release"/>
       <Project Name="range_based_for" ConfigName="Release"/>
-      <Project Name="a" ConfigName="Release"/>
       <Project Name="b" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
